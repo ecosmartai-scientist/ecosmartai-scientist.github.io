@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kairesearch.github.io/sitemap.xml
+Sitemap: https://ecosmartai-scientist.github.io/sitemap.xml
