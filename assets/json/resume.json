@@ -49,8 +49,19 @@
     {
       "institution": "Iowa State University, Ames, Iowa,US",
       "location": "Ames, Iowa, US",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "url": "https://www.cs.iastate.edu/",
+      "area": "Reinofrcement Learning",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Iowa State University, Ames, Iowa,US",
+      "location": "Ames, Iowa, US",
+      "url": "https://www.cs.iastate.edu/",
+      "area": "Reinofrcement Learning",
       "studyType": "PhD",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
