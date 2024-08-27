@@ -8,9 +8,9 @@ children:
   - title: Reinforcement-Learning
     permalink: /publications/
   - title: divider
-  - title: projects
+  - title: Statistics
     permalink: /projects/
   - title: divider
-  - title: blog
+  - title: Machine-Learning
     permalink: /blog/
 ---
