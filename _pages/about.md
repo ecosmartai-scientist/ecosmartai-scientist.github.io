@@ -15,7 +15,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: False # includes social icons at the bottom of the page
 ---
 
 I am currently pursuing a Ph.D. in [Computer Science](https://www.cs.iastate.edu/) with a minor in [Statistics](https://www.stat.iastate.edu) at [Iowa State University](https://www.iastate.edu/), working under the guidance of [Dr. Ravikumar Gelli](https://www.engineering.iastate.edu/people/profile/gelli/). My research is centered around optimizing Smart Grids, with a particular focus on enhancing their security using advanced techniques such as Deep Reinforcement Learning, Graph Neural Networks, and Generative Adversarial Networks (GANs). By integrating computer science and statistical methodologies, my goal is to develop robust and efficient systems that contribute to the advancement of Smart Grid technologies.
