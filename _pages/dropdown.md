@@ -1,11 +1,11 @@
 ---
 layout: page
-title: submenus
+title: Notes
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+  - title: Reinforcement-Learning
     permalink: /publications/
   - title: divider
   - title: projects
