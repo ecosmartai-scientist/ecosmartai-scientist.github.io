@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+<!---subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
   align: left
@@ -24,4 +24,4 @@ In addition to my work on Smart Grids, I am deeply interested in various other d
 
 My research combines Computer Science and Statistics to tackle real-world challenges and push the boundaries of technology in both Smart Grids and Self-Driving Projects.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
