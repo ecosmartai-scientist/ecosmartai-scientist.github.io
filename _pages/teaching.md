@@ -45,7 +45,7 @@ I am currently a Teaching Assistant for the following courses in the [Department
   - Assisting students with database design and query languages.
   - Supporting application development projects using various database technologies.
   - Providing guidance on working with different database systems and implementing machine learning solutions.
-  - 
+    
 ### COMS 362: Object-oriented Analysis and Design
 - **Topics Covered**:
   - Object-oriented requirements analysis and systems design.
