@@ -4,7 +4,7 @@ title: About
 permalink: /
 
 profile:
-  align: left
+  align: right
   image: bio.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
