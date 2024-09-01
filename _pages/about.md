@@ -2,8 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: /
-<!--  <a href='https://cs.iastate.edu'>PhD Student,Computer Science<br>Iowa State University, Iowa</a> -->
+subtitle: >
+  <a href='https://cs.iastate.edu'>PhD Student,Computer Science<br>Iowa State University, Iowa</a>
+
 
 profile:
   align: left
