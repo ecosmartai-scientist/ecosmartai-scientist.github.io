@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <a href="https://www.linkedin.com/in/kundan7kumar/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
-    <p>123 your address street</p>
+    <p><a href="https://www.linkedin.com/in/kundan7kumar/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a></p>
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
