@@ -11,7 +11,12 @@ profile:
   more_info: >
     <p><a href="https://www.linkedin.com/in/kundan7kumar/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a></p>
     <p><a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="" /></a></p>
-
+<p align="center"><a href="https://kundan-kumarr.github.io/reports/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+<a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="" /></a>
+<a href="https://orcid.org/0000-0002-3229-6649"><img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=plastic&logo=orcid&logoColor=white" alt="" /></a>
+<a href="https://kundan-kumarr.github.io/"><img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" /></a>
+<a href="https://medium.com/@cs.kundann"><img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" /></a>
+</p>
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
