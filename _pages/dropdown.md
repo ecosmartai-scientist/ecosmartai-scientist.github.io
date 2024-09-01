@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: Reinforcement-Learning
-    permalink: /publications/
+    permalink: /repositories/
   - title: divider
   - title: Statistics
     permalink: /projects/
