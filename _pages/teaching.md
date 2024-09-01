@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching/Mentorship
+<!--description: Materials for courses you taught. Replace this text with your description. -->
 nav: true
 nav_order: 6
 ---
@@ -11,7 +11,7 @@ As a Teaching Assistant at [Iowa State University](https://www.iastate.edu/), my
 
 <hr style="border: 1px solid gray">
 
-## Courses Taught/Mentorship
+<!--## Courses Taught/Mentorship-->
 
 I am currently a Teaching Assistant for the following courses in the [Department of Computer Science](https://cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/):
 
