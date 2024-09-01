@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes
+title: notes
 nav: true
 nav_order: 8
 dropdown: true
