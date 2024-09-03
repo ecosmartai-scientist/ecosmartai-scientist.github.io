@@ -8,8 +8,7 @@ profile:
   image: bio.jpg
   image_circular: False # crops the image to make it circular
   more_info: >
-    <p><a href="https://www.linkedin.com/in/kundan7kumar/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a></p>
-    <p><a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="" /></a></p>
+    <p>Research Scientist</p>
 
 news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
