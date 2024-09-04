@@ -8,7 +8,7 @@ profile:
   image: bio.jpg
   image_circular: False # crops the image to make it circular
   more_info: >
-    <p>Research Scientist</p>
+    <p>Research Scientist at NREL</p>
 
 news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
