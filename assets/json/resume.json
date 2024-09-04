@@ -5,7 +5,7 @@
     "image": "",
     "email": "kkumar@iastate.edu",
     "phone": "(650) 250-3248",
-    "url": "https://ecosmartai-scientist.github.io/",
+    "url": "https://kundan-kumarr.github.io/",
     "summary": "I am working as Research Scientist at National Renewable Energy Laboratory (NREL) and PhD Student at Iowa State University",
     "location": {
       "address": "2434 Osborn Dr",
@@ -50,7 +50,7 @@
       "institution": "Iowa State University, Ames, Iowa,US",
       "location": "Ames, Iowa, US",
       "url": "https://www.cs.iastate.edu/",
-      "area": "Reinofrcement Learning",
+      "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2020",
       "endDate": "2025"
@@ -59,12 +59,12 @@
       "institution": "Iowa State University, Ames, Iowa,US",
       "location": "Ames, Iowa, US",
       "url": "https://www.cs.iastate.edu/",
-      "area": "Reinofrcement Learning",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2015",
+      "endDate": "2016",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Deep Learning"]
     }
   ],
   "awards": [
