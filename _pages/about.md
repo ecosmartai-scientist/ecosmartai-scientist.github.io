@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+subtitle: Ph.D. Candidate at <a href='#'>Iowa State University</a>
 
 profile:
   align: right
